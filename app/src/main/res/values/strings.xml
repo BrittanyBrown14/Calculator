@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="NoZero">0</string>
+    <string name="No1">1</string>
+    <string name="No2">2</string>
+    <string name="No3">3</string>
+    <string name="No4">4</string>
+    <string name="No5">5</string>
+    <string name="No6">6</string>
+    <string name="No7">7</string>
+    <string name="No8">8</string>
+    <string name="No9">9</string>
+    <string name="clear_btn">C</string>
+    <string name="add_btn">+</string>
+    <string name="subtract_btn">-</string>
+    <string name="multiply_btn">x</string>
+    <string name="divide_btn">÷</string>
+    <string name="equals_btn">=</string>
+    <string name="back_btn">←</string>
+    <string name="hint_text">Enter a Number</string>
+    <string name="unselected_input_edit">Please select an input box</string>
+</resources>
